@@ -1,4 +1,4 @@
-#Group 3 Final Project API Script - Jo-Anna Martinez, Amoya Jordan, Donate Tracey & Jadian Tulloch
+#Group 3 Final Project API Script - Jo-Anna Martinez
 from fastapi import FastAPI
 from pydantic import BaseModel
 import pickle 
