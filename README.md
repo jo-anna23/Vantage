@@ -15,7 +15,7 @@ Tourism is Jamaica’s largest economic driver, yet agencies and businesses rely
 - **Preprocessing:** Cleaning, encoding, scaling, pipeline development.
 - **Models:**
     - Linear Regression (baseline).
-	  - Random Forest Regressor (primary model).
+	- Random Forest Regressor (primary model).
 - **Evaluation Metrics:** MAE, RMSE, R² Score.
 - **Interpretability:** SHAP plots for feature importance and transparency.
   
@@ -24,7 +24,7 @@ Tourism is Jamaica’s largest economic driver, yet agencies and businesses rely
 - **Models:**
     - MAE: 74.9 vs 323.8
     - RMSE: 1243.3 vs 2348.4
-	  - R² Score: 0.92 vs 0.73
+	- R² Score: 0.92 vs 0.73
 - **Key Drivers:** Visitor origin, type of visit (VAC), and major airports (e.g., Sangster International).
 - **Deployment:** FastAPI + Streamlit interface for real-world usability.
   
