@@ -1,4 +1,4 @@
-# Vantage: Touria=sm Arrival Prediction in Jamaica 
+# Vantage: Tourism Arrival Prediction in Jamaica 
 ## Overview 
 This project builds a machine learning forecasting tool to predict monthly visitor arrivals to Jamaica by country of origin and port of entry. It modernizes tourism planning by replacing retrospective reports with predictive analytics.
 
